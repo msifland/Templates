@@ -1,0 +1,6 @@
+#!/bin/sh
+# This is a blank shell script document.
+# Put your code below this line.
+echo
+echo ""
+sleep 1

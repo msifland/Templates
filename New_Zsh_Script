@@ -1,0 +1,6 @@
+#!/bin/zsh
+# This is a blank zsh script document.
+# Put your code below this line.
+echo
+echo ""
+sleep 1
